@@ -34,7 +34,7 @@ const Home = () => {
 
         <br />
 
-        <a href="https://discord.gg/A4MrDbyWw8" target="_blank" className="mt-1 button is-large home-button">
+        <a href="https://discord.gg/A4MrDbyWw8" className="mt-1 button is-large home-button">
           Join the Discord
         </a>
         <a href="https://fuegocreators.substack.com/" className="mt-1 button is-large home-button">
