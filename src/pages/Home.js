@@ -34,10 +34,10 @@ const Home = () => {
 
         <br />
 
-        <a href="https://discord.gg/MdWTUK2" target="_blank" rel="noreferrer" className="button is-large home-button">
+        <a href="https://discord.gg/A4MrDbyWw8" target="_blank" className="button is-large home-button">
           Join the Discord
         </a>
-        <a href="https://fuegocreators.substack.com/" target="_blank" rel="noreferrer" className="button is-large home-button">
+        <a href="https://fuegocreators.substack.com/" className="button is-large home-button">
           View Newsletter
         </a>
       </div>
