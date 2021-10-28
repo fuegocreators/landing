@@ -1,0 +1,106 @@
+.navbar-link:not(.is-arrowless)::after {
+  border-color: white;
+}
+
+.white {
+  color: white;
+}
+
+.white.dropdown-item:hover {
+  color: black;
+}
+
+.bodybg {
+  color: white;
+  background-position: center;
+  background-size: cover;
+  min-height: 100%;
+}
+.introText {
+  padding-top: 2em;
+}
+.introText {
+  vertical-align: middle;
+  text-align: center;
+  justify-content: center;
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+html {
+  height: 100%;
+}
+
+.home-button {
+  margin-left: 5px;
+  width: 250px;
+}
+
+.title {
+  color: white;
+}
+
+.fade {
+  display: hidden;
+}
+
+.text-n {
+  text-align: center;
+}
+
+.itemthing img {
+  cursor: pointer;
+}
+
+.centerit {
+  justify-content: center;
+  text-align: center;
+}
+
+.leftit {
+  justify-content: left;
+  text-align: left;
+}
+
+.dash-menu {
+  position: sticky;
+  display: inline-block;
+  vertical-align: top;
+  max-height: 100vh;
+  overflow-y: auto;
+  width: 200px;
+  top: 0;
+  bottom: 0;
+  padding: 30px;
+}
+
+.dash-content {
+  display: inline-block;
+}
+
+/* Discord user/channel highlight */
+
+.highlight {
+  cursor: pointer;
+  color: #505cdc;
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 0px 2px;
+  background: rgba(88, 101, 242, 0.3);
+  transition: background-color 50ms ease-out 0s, color;
+  text-decoration: none;
+}
+
+.highlight:hover {
+  cursor: pointer;
+  color: #505cdc;
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 0px 2px;
+  background: rgba(88, 101, 242, 0.3);
+  transition: background-color 50ms ease-out 0s, color;
+  text-decoration: none;
+}
