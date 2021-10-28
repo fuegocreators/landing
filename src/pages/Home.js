@@ -30,14 +30,14 @@ const Home = () => {
           <span>Fuego Creators</span>
         </h1>
 
-        <p>Fuego Creators - The future home for musicans, writers, artists, and all creators to collaborate and share their work with like-minded individuals. </p>
+        <p >Fuego Creators - The future home for musicans, writers, artists, and all creators to collaborate and share their work with like-minded individuals. </p>
 
         <br />
 
-        <a href="https://discord.gg/A4MrDbyWw8" target="_blank" className="button is-large home-button">
+        <a href="https://discord.gg/A4MrDbyWw8" target="_blank" className="mt-1 button is-large home-button">
           Join the Discord
         </a>
-        <a href="https://fuegocreators.substack.com/" className="button is-large home-button">
+        <a href="https://fuegocreators.substack.com/" className="mt-1 button is-large home-button">
           View Newsletter
         </a>
       </div>
