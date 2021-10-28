@@ -30,7 +30,7 @@ const Home = () => {
           <span>Fuego Creators</span>
         </h1>
 
-        <p>Wolvesville Simulation - A Discord based social deduction game for all!</p>
+        <p>Fuego Creators - The future home for musicans, writers, artists, and all creators to collaborate and share their work with like-minded individuals. </p>
 
         <br />
 
