@@ -23,14 +23,12 @@ const Home = () => {
         <br />
 
         <h1 className="is-1 title">
-          <figure className="image" style={{ width: "256px", display: "inline-block", verticalAlign: "middle" }}>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/archive/0/02/20180412131227%21Transparent_square.svg" alt="Logo" />
+          <figure className="image" style={{ padding: "100px", width: "60%", display: "inline-block", verticalAlign: "middle" }}>
+            <img src="/FuegoCreatorsWhite.png" alt="Logo" />
           </figure>
-          <br />
-          <span>Fuego Creators</span>
         </h1>
 
-        <p >Fuego Creators - The future home for musicans, writers, artists, and all creators to collaborate and share their work with like-minded individuals. </p>
+        <h2 className="title" >The future home for musicans, writers, artists, and all creators<br />to collaborate and share their work with like-minded individuals. </h2>
 
         <br />
 
