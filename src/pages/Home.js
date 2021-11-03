@@ -18,17 +18,20 @@ const Home = () => {
       {/* <TopNav /> */}
 
       <div className={"container introText"}>
-        
         <br />
         <br />
 
         <h1 className="is-1 title">
-          <figure className="image" style={{ padding: "100px", width: "60%", display: "inline-block", verticalAlign: "middle" }}>
-            <img src="/FuegoCreatorsWhite.png" alt="Logo" />
+          <figure className="image">
+            <img src="/FuegoCreatorsWhite.png" alt="Logo" style={{ padding: "0% 10% 5% 10%", width: "80%", display: "inline-block", verticalAlign: "middle" }} />
           </figure>
         </h1>
 
-        <h2 className="title" >The future home for musicans, writers, artists, and all creators<br />to collaborate and share their work with like-minded individuals. </h2>
+        <h2 className="title">
+          The future home for musicans, writers, artists, and all creators
+          <br />
+          to collaborate and share their work with like-minded individuals.{" "}
+        </h2>
 
         <br />
 
