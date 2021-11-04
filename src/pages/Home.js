@@ -23,7 +23,7 @@ const Home = () => {
 
         <h1 className="is-1 title">
           <figure className="image">
-            <img src="/FuegoCreatorsWhite.png" alt="Logo" style={{ padding: "0% 10% 5% 10%", width: "80%", display: "inline-block", verticalAlign: "middle" }} />
+            <img src="/FuegoCreators3W.png" alt="Logo" style={{ padding: "0% 10% 5% 10%", width: "80%", display: "inline-block", verticalAlign: "middle" }} />
           </figure>
         </h1>
 
